@@ -1,0 +1,15 @@
+.rl-button {
+  box-sizing: border-box;
+  display: inline-block;
+  color: white;
+  min-width: 80px;
+  min-height: 40px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  background-color: aquamarine;
+  padding: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}

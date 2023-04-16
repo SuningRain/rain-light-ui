@@ -1,0 +1,14 @@
+.rl-text {
+  box-sizing: border-box;
+  display: inline-block;
+  margin-right: 10px;
+  color: white;
+  min-width: 80px;
+  min-height: 40px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  background-color: aquamarine;
+  padding: 10px;
+}
